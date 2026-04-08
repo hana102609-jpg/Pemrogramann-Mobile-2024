@@ -9,17 +9,17 @@ Repository ini berisi pengumpulan tugas praktikum mata kuliah Pemrograman Mobile
 
 **Praktikum 1 : Flutter**
 
-**Hasil**
+hasil
 
-**langkah 1**
+langkah 1 :
 
 <img width="505" height="882" alt="Screenshot 2026-04-08 133149" src="https://github.com/user-attachments/assets/3fcda101-b4bd-4b67-8273-fd6cb112589b" />
 
-**langkah 2**
+langkah 2 :
 
 <img width="1920" height="1200" alt="Screenshot 2026-04-08 120515" src="https://github.com/user-attachments/assets/300624ec-5b85-413e-b9fd-ac304247f66f" />
 
-**penjelasan** :
+penjelasan:
 
 saya membuat project flutter menggunakan perintah flutter create dan berhasil menjalankan sebuah aplikasi
 
@@ -37,7 +37,7 @@ penjelasan:
 
 saya membuat repositiri github dan hasil berhasil mengupload project menggunakan github
 
-Praktikum 3 : Menjalankan Didevide
+**Praktikum 3 : Menjalankan Didevide**
 
 hasil Hp
 
@@ -53,10 +53,40 @@ penjelasan:
 
 saya menghubungkan hp dengan kabel usb debugging dan menjalankan aplikasi menggunakan flutter run.
 
-Praktikum 4: statles dan statefull
+**Praktikum 4: statles dan statefull**
 
 langkah 1 :
 
+![WhatsApp Image 2026-04-08 at 17 46 38 (1)](https://github.com/user-attachments/assets/6b53994f-5c37-44b5-b798-e0ddee6dff7a)
 
+langkah 2 :
+
+![WhatsApp Image 2026-04-08 at 17 46 38 (2)](https://github.com/user-attachments/assets/474edf13-b4f9-40ba-a729-07273542c539)
+
+ langkah 3 :
+
+ ![WhatsApp Image 2026-04-08 at 17 46 39](https://github.com/user-attachments/assets/dd0647e7-d685-4783-be20-9d5e52b552fb)
+
+langkah 4 : 
+
+![WhatsApp Image 2026-04-08 at 17 46 40](https://github.com/user-attachments/assets/4ea2cf60-f68c-44ca-bdd2-2fbeb7298fa7)
+
+penjelasan: 
+
+saya mempelajari perbedaan stateles dan stateful widget.
+
+Praktikum 5 : Widget Dasar
+
+Langkah 1 :
+
+![WhatsApp Image 2026-04-08 at 17 46 40 (1)](https://github.com/user-attachments/assets/afa58917-d505-4394-9f95-a9480fc0c0bc)
+
+penejelasan : 
+
+saya menggunakan widget text,icon, dan coloumn untuk membuat tampilan sederhana seperti gambar diatas.
+
+**kesimpulan : **
+
+Saya memahami cara membuat aplikasi flutter,menjalankan di emulator dan device,serta menggunakan widget dasar.
 
 
