@@ -49,5 +49,14 @@ Langkah 2 :
 
 ![WhatsApp Image 2026-04-08 at 17 46 38](https://github.com/user-attachments/assets/fe708a1a-680d-4864-a17d-3ad46ac07b85)
 
+penjelasan: 
+
+saya menghubungkan hp dengan kabel usb debugging dan menjalankan aplikasi menggunakan flutter run.
+
+Praktikum 4: statles dan statefull
+
+langkah 1 :
+
+
 
 
