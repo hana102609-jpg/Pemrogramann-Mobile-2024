@@ -15,3 +15,10 @@ langkah 1
 Langkah 2
 
 <img width="1920" height="1200" alt="Screenshot 2026-04-08 120515" src="https://github.com/user-attachments/assets/c3e61695-e265-44d8-ae94-3f8c29bb2455" />
+
+Penjelasan 
+
+saya membuat project flutter menggunakan perintah flutter create dan berhasil menjalankan aplikasi.
+
+langkah 1 
+
