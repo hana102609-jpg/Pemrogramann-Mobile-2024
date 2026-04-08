@@ -8,5 +8,4 @@ Repository ini berisi pengumpulan tugas praktikum mata kuliah Pemrograman Mobile
 
 Hasil
 
-
-<img width="1920" height="1200" alt="Screenshot 2026-04-08 131723" src="https://github.com/user-attachments/assets/4d0a3174-a89f-409f-82e6-789c3d6adc34" />
+<img width="505" height="882" alt="Screenshot 2026-04-08 133149" src="https://github.com/user-attachments/assets/3fcda101-b4bd-4b67-8273-fd6cb112589b" />
