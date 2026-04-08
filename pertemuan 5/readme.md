@@ -75,7 +75,7 @@ penjelasan:
 
 saya mempelajari perbedaan stateles dan stateful widget.
 
-Praktikum 5 : Widget Dasar
+**Praktikum 5 : Widget Dasar**
 
 Langkah 1 :
 
@@ -85,7 +85,7 @@ penejelasan :
 
 saya menggunakan widget text,icon, dan coloumn untuk membuat tampilan sederhana seperti gambar diatas.
 
-**kesimpulan : **
+**kesimpulan :**
 
 Saya memahami cara membuat aplikasi flutter,menjalankan di emulator dan device,serta menggunakan widget dasar.
 
